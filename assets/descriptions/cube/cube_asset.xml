@@ -1,0 +1,7 @@
+<mujocoinclude>
+
+    <asset>
+        <material name="blue_cube_mat" rgba="0.1 0.6 1.0 1"/>
+    </asset>
+
+</mujocoinclude>

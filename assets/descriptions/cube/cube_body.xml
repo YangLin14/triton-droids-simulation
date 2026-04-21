@@ -1,0 +1,14 @@
+<mujocoinclude>
+    <body name="cube" pos="0 0 0.0">
+        <freejoint name="cube_joint"/>
+        <geom name="cube_geom" 
+              type="box" 
+              size="0.02 0.02 0.02" 
+              material="blue_cube_mat" 
+              mass="0.05" 
+              friction="2 0.8 0.02"
+              contype="1"
+              conaffinity="1"
+              group="0" />
+    </body>
+</mujocoinclude>
